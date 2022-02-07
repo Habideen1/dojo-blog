@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\n It is a long established fact that a reader will be distracted",
+      "author": "Abideen",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\n It is a long established fact that a reader will be distracted",
+      "author": "haybee",
+      "id": 2
+    },
+    {
+      "title": "Conference Meeting",
+      "body": "It is my pleasure to welcome you to this epoch event",
+      "author": "Abideen",
+      "id": 5
+    },
+    {
+      "title": "zoom meeting",
+      "body": "you are outstanding",
+      "author": "Abideen",
+      "id": 6
+    },
+    {
+      "title": "hello world!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n\ttempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n\tquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n\tconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n\tcillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n\tproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "author": "Abideen",
+      "id": 7
+    }
+  ]
+}
